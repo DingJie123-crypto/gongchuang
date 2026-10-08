@@ -66,7 +66,7 @@ OLED（软件 I2C）：
 【*】 时钟
 
 A.晶振：
--外部高速晶振：25MHz（SetSysClockTo168M 在 User/main.c 中配置）
+-外部高速晶振：8MHz（SetSysClockTo168M 在 User/main.c 中配置）
 -RTC晶振：32.768KHz
 
 B.各总线运行时钟：
