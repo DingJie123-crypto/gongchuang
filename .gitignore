@@ -1,0 +1,25 @@
+# ===== Keil MDK 编译输出 =====
+Output/
+Listing/
+
+# ===== 编译中间产物 =====
+*.o
+*.crf
+*.d
+*.axf
+*.dep
+*.htm
+*.map
+*.lst
+*.bak
+*.Bak
+*.scvd
+
+# ===== Keil 工程：调试与用户界面状态（机器相关，不入库）=====
+DebugConfig/
+RTE/
+*.dbgconf
+*.uvgui*
+*.uvoptx
+JLinkLog.txt
+JLinkSettings.ini
